@@ -52,7 +52,7 @@ def array_operations():
     print(f"Reversed list: {reversed_elements}")
     print(f"Duplicate elements: {duplicates}")
     print(f"Missing elements: {missing_elements}")
-
+#call the function
 array_operations()
 
 
